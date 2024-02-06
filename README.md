@@ -1,5 +1,9 @@
+XML-DataPipeline-Project
+
 LANGUAGE HOLIDAY AGENCY PROJECT - Project on the modelling of an XML database which manages the data of a language holiday agency.
+
 Abstact
+
 The XML database proposed is called “LANGUAGE-HOLIDAY-AGENCY”,It is structured based on the region group to which each country belongs. 
 We proposed 3 different countries and 2 cities for each country, for this reason we got a total of 6 offices, 12 different employees, 
 9 different offers, 18 different activities, and more than 18 different participants.
